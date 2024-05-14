@@ -9,7 +9,9 @@ export default function Page() {
          <Link href="/dashboard/textgeneration">   
         <ContainerBox title="Text"/>
         </Link>
+        <Link href="/dashboard/imagegeneration">   
         <ContainerBox title="Image"/>
+        </Link>
         <ContainerBox title="Music"/>
         </div>
         <div className="rounded-sm h-1 w-full bg-gray-500 bg-opacity-30 my-8"></div>
